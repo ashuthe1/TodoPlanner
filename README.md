@@ -1,4 +1,4 @@
-# Todo List App with React.js & Redux
+# Todo Planner! App with React.js & Redux
 
 
 ## Main Features
